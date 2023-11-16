@@ -34,7 +34,8 @@ This is a React application that displays a user profile along with their posts.
    - Uses Tailwind CSS for responsive and clean styling.
    - Adjusts layout based on screen size.
 
- 
+# Netlify host link-
+ https://tranquil-brigadeiros-e00089.netlify.app/ 
 
 # Install dependencies
 ```bash
